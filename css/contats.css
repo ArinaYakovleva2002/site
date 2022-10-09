@@ -1,0 +1,236 @@
+contacts {
+    position: absolute;
+    width: 1440px;
+    height: 1053px;
+    left: 0px;
+    top: 0px;
+    background: #ffffff;
+}
+
+.man2 {
+    position: absolute;
+    width: 448px;
+    height: 459px;
+    left: 847px;
+    top: 260px;
+    background: url(../pictures/man2.png);
+}
+.rec {
+    position: absolute;
+    width: 600px;
+    height: 468px;
+    left: 790px;
+    top: 251px;
+    background: #ffd800;
+    border-radius: 50px;
+}
+.karta {
+    
+    position: absolute;
+    width: 794px;
+    height: 539px;
+    left: 200px;
+    top: 750px;
+    background: url(../pictures/karta.png);
+   
+    border-radius: 20px;
+}
+.rec2 {
+    position: absolute;
+    width: 590px;
+    height: 540px;
+    left: 120px;
+    top: 110px;
+    background: #018FA3;
+    box-shadow: 0px 50px 50px -27px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+
+.txt1 {
+    position: absolute;
+    width: 357px;
+    height: 59px;
+    left: 300px;
+    top: 120px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 59px;
+
+
+
+    color: #FFFFFF;
+}
+
+.txt2 {
+    position: absolute;
+    width: 476px;
+    height: 58px;
+    left: 162px;
+    top: 200px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.txt3 {
+    position: absolute;
+    width: 194px;
+    height: 29px;
+    left: 162px;
+    top: 240px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.txt4 {
+    position: absolute;
+    width: 76px;
+    height: 29px;
+    left: 162px;
+    top: 290px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.txt5 {
+    position: absolute;
+    width: 507px;
+    height: 29px;
+    left: 162px;
+    top: 340px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.txt6 {
+    position: absolute;
+    width: 182px;
+    height: 29px;
+    left: 162px;
+    top: 390px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.txt7 {
+    position: absolute;
+    width: 220px;
+    height: 87px;
+    left: 162px;
+    top: 420px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.txt8 {
+    position: absolute;
+    width: 78px;
+    height: 29px;
+    left: 162px;
+    top: 520px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.txt9 {
+    position: absolute;
+    width: 223px;
+    height: 29px;
+    left: 162px;
+    top: 560px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.el {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 600px;
+    top: 50px;
+    background: url(../pictures/Ellipse.png);
+}
+.five {
+    position: absolute;
+    width: 170px;
+    height: 230px;
+    left: 1000px;
+    top: 0px;
+    background: url(../pictures/5.png);
+    filter: blur(10px);
+    transform: rotate(20deg);
+}
+.eli {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 0px;
+    top: 520px;
+    background: url(../pictures/22.png);
+}
+.book {
+    position: absolute;
+    width: 102px;
+    height: 88px;
+    left: 120px;
+    top: 20px;
+    background: url(../pictures/book.png);
+}
+
+.kat {
+    position: absolute;
+    width: 131px;
+    height: 39px;
+    left: 250px;
+    top: 40px;
+    background: url(../pictures/catalog.png);
+}
+
+.otz {
+    position: absolute;
+    width: 133px;
+    height: 31px;
+    left: 420px;
+    top: 40px;
+    background: url(../pictures/reviews.png);
+}
+
+.cont {
+    position: absolute;
+    width: 155px;
+    height: 28px;
+    left: 590px;
+    top: 44px;
+    background: url(../pictures/contacts.png);
+}

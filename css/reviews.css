@@ -1,0 +1,324 @@
+reviews {
+    position: absolute;
+    width: 1440px;
+    height: 1053px;
+    left: 0px;
+    top: 0px;
+    background: #ffffff;
+}
+.book {
+    position: absolute;
+    width: 102px;
+    height: 88px;
+    left: 120px;
+    top: 20px;
+    background: url(../pictures/book.png);
+}
+
+.kat {
+    position: absolute;
+    width: 131px;
+    height: 39px;
+    left: 250px;
+    top: 40px;
+    background: url(../pictures/catalog.png);
+}
+
+.otz {
+    position: absolute;
+    width: 133px;
+    height: 31px;
+    left: 420px;
+    top: 40px;
+    background: url(../pictures/reviews.png);
+}
+
+.cont {
+    position: absolute;
+    width: 155px;
+    height: 28px;
+    left: 590px;
+    top: 44px;
+    background: url(../pictures/contacts.png);
+}
+.text1 {
+    position: absolute;
+    width: 366px;
+    height: 29px;
+    left: 700px;
+    top: 120px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 29px;
+    color: #4800ff;
+}
+
+.photo1 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 240px;
+    top: 220px;
+    background: url(../pictures/mic2.png);
+}
+.photo2 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 647px;
+    top: 220px;
+    background: url(../pictures/jo.png);
+}
+.photo3 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1053px;
+    top: 220px;
+    background: url(../pictures/mic.png);
+}
+.photo4 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 240px;
+    top: 520px;
+    background: url(../pictures/osp.png);
+}
+.photo5 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 647px;
+    top: 520px;
+    background: url(../pictures/alex.png);
+}
+.photo6 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1053px;
+    top: 520px;
+    background: url(../pictures/askar.png);
+}
+.rec1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 387px;
+    height: 284px;
+    left: 220px;
+    top: 200px;
+    border: 4px solid #018FA3;
+    border-radius: 30px;
+}
+.rec2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 387px;
+    height: 284px;
+    left: 627px;
+    top: 200px;
+    border: 4px solid #018FA3;
+    border-radius: 30px;
+}
+.rec3 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 387px;
+    height: 284px;
+    left: 1033px;
+    top: 200px;
+    border: 4px solid #018FA3;
+    border-radius: 30px;
+}
+.rec4 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 387px;
+    height: 284px;
+    left: 220px;
+    top: 500px;
+    border: 4px solid #018FA3;
+    border-radius: 30px;
+}
+
+.rec5 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 387px;
+    height: 284px;
+    left: 627px;
+    top: 500px;
+    border: 4px solid #018FA3;
+    border-radius: 30px;
+}
+
+.rec6 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 387px;
+    height: 284px;
+    left: 1033px;
+    top: 500px;
+    border: 4px solid #018FA3;
+    border-radius: 30px;
+}
+
+.txt1 {
+    position: absolute;
+    width: 168px;
+    height: 29px;
+    left: 350px;
+    top: 230px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+.txt2 {
+    position: absolute;
+    width: 327px;
+    height: 120px;
+    left: 240px;
+    top: 320px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+.txt3 {
+    position: absolute;
+    width: 168px;
+    height: 29px;
+    left: 747px;
+    top: 230px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+.txt4 {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 657px;
+    top: 320px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+.txt5 {
+    position: absolute;
+    width: 168px;
+    height: 29px;
+    left: 1150px;
+    top: 230px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+.txt6 {
+    position: absolute;
+    width: 327px;
+    height: 120px;
+    left: 1053px;
+    top: 320px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+.txt7 {
+    position: absolute;
+    width: 168px;
+    height: 29px;
+    left: 350px;
+    top: 530px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+.txt8 {
+    position: absolute;
+    width: 327px;
+    height: 120px;
+    left: 240px;
+    top: 610px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+.txt9 {
+    position: absolute;
+    width: 168px;
+    height: 29px;
+    left: 747px;
+    top: 530px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+.txt10 {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 657px;
+    top: 610px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+.txt11 {
+    position: absolute;
+    width: 168px;
+    height: 29px;
+    left: 1150px;
+    top: 530px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+.txt12 {
+    position: absolute;
+    width: 327px;
+    height: 120px;
+    left: 1053px;
+    top: 610px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}

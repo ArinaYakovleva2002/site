@@ -1,0 +1,113 @@
+body {
+    position: relative;
+  
+    width: 1440px;
+    height: 1000px; 
+    background: #FFFFFF;
+}
+/*.vec {
+
+    position: absolute;
+    width: 1440px;
+    height: 200px;
+    left: 0px;
+    top: 834px;
+    background: #FAE01A;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}*/
+.man {
+    position: absolute;
+    width: 446px;
+    height: 726px;
+    left: 812px;
+    top: 108px;
+    background: url(../pictures/manl.svg);
+}
+
+.el {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 350px;
+    top: 150px;
+    background: url(../pictures/Ellipse.png);
+}
+.book {
+    position: absolute;
+    width: 102px;
+    height: 88px;
+    left: 120px;
+    top: 20px;
+    background: url(../pictures/book.png);
+}
+.five {
+    position: absolute;
+    width: 170px;
+    height: 230px;
+    left: 700px;
+    top: 618.05px;
+    background: url(../pictures/5.png);
+    filter: blur(10px);
+    transform: rotate(20deg);
+}
+.eli {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 150px;
+    top: 450px;
+    background: url(../pictures/22.png);
+}
+.kat {
+    position: absolute;
+    width: 131px;
+    height: 39px;
+    left: 250px;
+    top: 40px;
+    background: url(../pictures/catalog.png);
+}
+.otz {
+    position: absolute;
+    width: 133px;
+    height: 31px;
+    left: 420px;
+    top: 40px;
+    background: url(../pictures/reviews.png);
+}
+.cont {
+    position: absolute;
+    width: 155px;
+    height: 28px;
+    left: 590px;
+    top: 44px;
+    background: url(../pictures/contacts.png);
+}
+.centr {
+    position: absolute;
+    width: 664px;
+    height: 118px;
+    left: 120px;
+    top: 264px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 37px;
+    line-height: 59px;
+    color: #04194b;
+}
+.text{
+    position: absolute;
+width: 532px;
+height: 116px;
+left: 120px;
+top: 426px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
